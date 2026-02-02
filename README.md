@@ -73,11 +73,11 @@ Continuous Learning
 
 📫 Connect With Me
 
-💼 GitHub: You’re already here 😉
+💼 GitHub: https://github.com/mansigonnade38-netizen
 
-📧 Email: add if you want
+📧 Email: mansigonnade38@gmail.com
 
-🌐 LinkedIn: optional
+🌐 LinkedIn: www.linkedin.com/in/mansi-gonnade-09374b346
 
 ⭐ Learning. Building. Growing. 🚀
 <!--
