@@ -6,7 +6,7 @@
 💻 Passionate about learning, building, and growing in tech.
 I enjoy solving problems, creating web projects, and exploring data to gain insights.
 
-🚀 Skills & Learning
+## 🚀 Skills & Learning
 🧠 Core Technical Skills
 
 Data Structures & Algorithms (DSA)
@@ -17,7 +17,7 @@ Web Development – HTML, CSS, JavaScript
 
 API Basics & Integration
 
-📊 Data Analyst Skills
+## 📊 Data Analyst Skills
 
 Data Analysis Fundamentals
 
@@ -27,7 +27,7 @@ SQL (Basics)
 
 Data Cleaning & Visualization (Beginner)
 
-🛠️ Tools & Technologies
+## 🛠️ Tools & Technologies
 
 Java
 
@@ -39,7 +39,7 @@ VS Code
 
 Excel
 
-🌱 Currently Working On
+## 🌱 Currently Working On
 
 Improving DSA & problem-solving
 
@@ -49,7 +49,7 @@ Learning backend & APIs
 
 Exploring data analysis concepts
 
-🎯 Goals
+## 🎯 Goals
 
 Become a skilled Software Developer
 
@@ -59,7 +59,7 @@ Strengthen analytical & communication skills
 
 Grow consistently as a tech professional
 
-🤝 Soft Skills
+## 🤝 Soft Skills
 
 Problem Solving
 
@@ -71,7 +71,7 @@ Time Management
 
 Continuous Learning
 
-📫 Connect With Me
+## 📫 Connect With Me
 
 💼 GitHub: https://github.com/mansigonnade38-netizen
 
